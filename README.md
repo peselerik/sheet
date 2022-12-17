@@ -1,5 +1,6 @@
 # Sheet
-Projekt neni kompletne dokoncen, nektere funkce chybi.  
+Projekt neni kompletne dokoncen, nektere funkce chybi.
+
 Program se snazi napodobit fungovani excelu.
 
 ## Preklad programu
