@@ -1,0 +1,7 @@
+1:2:3:4:5:6
+2:3:4:5:6:7
+a:B:C:D:e:f
+f:G:h:I:j:K
+auto:pes:kocka:123:4+2:ooo
+ccc:d2d:ari:l:****:XXXXX
+AAAA:BBBB:cccc:dddd:EEEE:ffff
